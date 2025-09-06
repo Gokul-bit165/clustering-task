@@ -57,7 +57,7 @@ python app.py
 ```
 
 Local URL: `http://127.0.0.1:7860`  
-Public Share (if enabled): `https://xxxxx.gradio.live`  
+Public Share (if enabled): `https://huggingface.co/spaces/GokulV/clustering/`  
 
 ---
 
@@ -75,18 +75,18 @@ Public Share (if enabled): `https://xxxxx.gradio.live`
 ## 📊 Example Output  
 
 ### 🔹 KMeans Example  
-![KMeans Example](images/kmeans_plot.png)  
+![KMeans Example](rfm_outputs/kmeans.png)  
 
 ### 🔹 DBSCAN Example  
-![DBSCAN Example](images/dbscan_plot.png)  
+![DBSCAN Example](rfm_outputs/dbscan.png)  
 
 ### 🔹 Agglomerative Example  
-![Agglomerative Example](images/agglo_plot.png)  
+![Agglomerative Example](rfm_outputs/heirarichal.png)  
 
 ---
 
 ## 🌍 Live Demo  
-🔗 [Try it here](https://your-deployed-link.com)  
+🔗 [Try it here](https://huggingface.co/spaces/GokulV/clustering/)  
 
 ---
 
