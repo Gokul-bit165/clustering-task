@@ -97,3 +97,54 @@ It is ideal for:
 - Market Basket Analysis  
 - Exploratory Data Analysis (EDA)  
 - Unsupervised Learning Projects  
+
+## Evaluation metrics:
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Model</th>
+      <th>Silhouette Score ↑</th>
+      <th>Calinski-Harabasz ↑</th>
+      <th>Davies-Bouldin ↓</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>KMeans</td>
+      <td>0.439315</td>
+      <td>2417.851924</td>
+      <td>0.971942</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Hierarchical</td>
+      <td>0.502359</td>
+      <td>586.403492</td>
+      <td>0.614819</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>DBSCAN</td>
+      <td>0.226870</td>
+      <td>948.337929</td>
+      <td>1.614359</td>
+    </tr>
+  </tbody>
+</table>
+</div>
